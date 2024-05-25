@@ -26,4 +26,4 @@ The library is organized into the following categories:
     - The header file that includes all necessary declarations and macro definitions.
 
 You can see structure of this library in link below
-`[Libraly structure](https://drive.google.com/file/d/1YcCris_Ia21zKxY1Ag5d8vEBppgf-eDw/view?usp=sharing)`
+[Libraly structure](https://drive.google.com/file/d/1YcCris_Ia21zKxY1Ag5d8vEBppgf-eDw/view?usp=sharing)
